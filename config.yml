@@ -97,7 +97,7 @@ socials:
       target: "_blank"
   - social:
       icon: "fa-brands fa-telegram"
-      url: "icosane.t.me"
+      url: "https://icosane.t.me"
       title: "Telegram"
       alt: "Telegram"
       target: "_blank"
