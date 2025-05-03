@@ -28,7 +28,7 @@ plugins:
 title: "icosane's Links"
 
 # Avatar image path
-avatar: "./images/profile.png"
+avatar: "./images/profile.jpeg"
 
 # Name section text
 name: "icosane"
@@ -61,17 +61,24 @@ links:
       target: "_blank"
   - link:
       icon: "fa-brands fa-windows"
-      text: "vervain"
+      text: "vervain <span class='link-button-text'>(Win32 app simulating dynamic models)</span>"
       url: "https://github.com/icosane/vervain"
       alt: "Win32 app simulating dynamic models (Rössler, Lorenz, Chen). Utilizes TensorFlow-based image recognition to detect synchronization from phase portraits"
       title: "Win32 app simulating dynamic models (Rössler, Lorenz, Chen). Utilizes TensorFlow-based image recognition to detect synchronization from phase portraits"
       target: "_blank"
   - link:
       icon: "fa-brands fa-android"
-      text: "aubretia"
+      text: "aubretia <span class='link-button-text'>(An image search application)</span>"
       url: "https://github.com/icosane/aubretia"
       alt: "An image search application built with Flutter."
       title: "An image search application built with Flutter."
+      target: "_blank"
+- link:
+      icon: "fa-brands fa-globe"
+      text: "esoragoto <span class='link-button-text'>(Web-based Kuramoto modeler)</span>"
+      url: "https://github.com/icosane/esoragoto"
+      alt: "Web-based Kuramoto modeler"
+      title: "Web-based Kuramoto modeler"
       target: "_blank"
 
 
@@ -103,7 +110,7 @@ socials:
 
 # Footer text
 footer: >
-    yep. all my repos are named after flowers. it's confusing, bad for indexing, but i think it's cute.
+    yep. most of my repos are named after flowers. it's confusing, bad for indexing, but i think it's cute.
 
 # Footer copyright message
 # Linkyee is a 100% free, open-source project—feel free to modify the copyright message as you like. :)
