@@ -34,9 +34,7 @@ avatar: "./images/profile.jpeg"
 name: "icosane"
 
 # Tagline section text
-tagline: >-
-    Python developer with experience in PyQt and SQL. Skilled in working with scientific computing libraries like NumPy and SciPy. Likes to write GUI apps for Windows. 
-    I also sometimes dabble into manga scanlation, doing translation (en->ru), editing and typesetting all by myself. 
+tagline: Python developer with experience in PyQt and SQL. Skilled in working with scientific computing libraries like NumPy and SciPy. Likes to write GUI apps for Windows. \nI also sometimes dabble into manga scanlation, doing translation (en->ru), editing and typesetting all by myself.
 
 # List of links
 # icon: Use Font Awesome icons (https://fontawesome.com/search?o=r&m=free)
