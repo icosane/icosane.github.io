@@ -74,7 +74,7 @@ links:
       title: "An image search application built with Flutter."
       target: "_blank"
   - link:
-        icon: "fa-brands fa-globe"
+        icon: "fa-solid fa-globe"
         text: "esoragoto <span class='link-button-text'>(Web-based Kuramoto modeler)</span>"
         url: "https://github.com/icosane/esoragoto"
         alt: "Web-based Kuramoto modeler"
@@ -90,7 +90,7 @@ links:
 # target: _blank opens in a new tab, _self opens in the same frame
 socials:
   - social:
-      icon: "fa-solid fa-globe"
+      icon: "fa-solid fa-github"
       url: "https://github.com/icosane"
       title: "GitHub"
       alt: "GitHub"
