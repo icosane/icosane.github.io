@@ -55,6 +55,13 @@ links:
       target: "_blank"
   - link:
       icon: "fa-brands fa-windows"
+      text: "celosia <span class='link-button-text'>(PDF/EPUB offline translator)</span>"
+      url: "https://github.com/icosane/celosia"
+      alt: "Translate PDF and EPUB files locally"
+      title: "Translate PDF and EPUB files locally"
+      target: "_blank"
+  - link:
+      icon: "fa-brands fa-windows"
       text: "alstroemeria <span class='link-button-text'>(Subtitle creation, translation and voiceover)</span>"
       url: "https://github.com/icosane/alstroemeria"
       alt: "Create and translate subtitles for any video, complete with voiceover capabilities. "
