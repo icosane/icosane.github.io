@@ -87,13 +87,6 @@ links:
         alt: "Web-based Kuramoto modeler"
         title: "Web-based Kuramoto modeler"
         target: "_blank"
-  - link:
-        icon: "fa-brands fa-python"
-        text: "FlockTrack <span class='link-button-text'>(Win32 app for processing and forecasting chicken data)</span>"
-        url: "https://github.com/icosane/excelentchickens"
-        alt: "Сalculate, process and forecast chicken data"
-        title: "Сalculate, process and forecast chicken data"
-        target: "_blank"
 
 
 # List of social media links
