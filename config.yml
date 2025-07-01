@@ -61,6 +61,13 @@ links:
       target: "_blank"
   - link:
       icon: "fa-brands fa-windows"
+      text: "Alyssum <span class='link-button-text'>(Simple Argos Translate GUI)</span>"
+      url: "https://github.com/icosane/Alyssum"
+      alt: "Simple Argos Translate GUI"
+      title: "Simple Argos Translate GUI"
+      target: "_blank"
+  - link:
+      icon: "fa-brands fa-windows"
       text: "alstroemeria <span class='link-button-text'>(Subtitle creation, translation and voiceover)</span>"
       url: "https://github.com/icosane/alstroemeria"
       alt: "Create and translate subtitles for any video, complete with voiceover capabilities. "
