@@ -104,6 +104,12 @@ links:
 # target: _blank opens in a new tab, _self opens in the same frame
 socials:
   - social:
+      icon: "fa-solid fa-file"
+      url: "https://icosane.github.io/res/"
+      title: "Resume"
+      alt: "Resume"
+      target: "_blank"
+  - social:
       icon: "fa-brands fa-github"
       url: "https://github.com/icosane"
       title: "GitHub"
@@ -120,6 +126,12 @@ socials:
       url: "mailto:yureruhimawari@outlook.com"
       title: "Email"
       alt: "yureruhimawari@outlook.com"
+      target: "_blank"
+  - social:
+      icon: "fa-solid fa-envelope"
+      url: "mailto:yureruhimawarii@naver.com"
+      title: "Email #2"
+      alt: "yureruhimawarii@naver.com"
       target: "_blank"
 
 # Footer text
