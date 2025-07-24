@@ -54,13 +54,6 @@ links:
       target: "_blank"
   - link:
       icon: "fa-brands fa-windows"
-      text: "celosia <span class='link-button-text'>(PDF/EPUB offline translator)</span>"
-      url: "https://github.com/icosane/celosia"
-      alt: "Translate PDF and EPUB files locally"
-      title: "Translate PDF and EPUB files locally"
-      target: "_blank"
-  - link:
-      icon: "fa-brands fa-windows"
       text: "Alyssum <span class='link-button-text'>(Simple Argos Translate GUI)</span>"
       url: "https://github.com/icosane/Alyssum"
       alt: "Simple Argos Translate GUI"
