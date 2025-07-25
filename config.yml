@@ -54,7 +54,7 @@ links:
       target: "_blank"
   - link:
       icon: "fa-brands fa-windows"
-      text: "Alyssum <span class='link-button-text'>(Simple Argos Translate GUI)</span>"
+      text: "Alyssum <span class='link-button-text'>(Local translator with OCR and file translation support)</span>"
       url: "https://github.com/icosane/Alyssum"
       alt: "Simple Argos Translate GUI"
       title: "Simple Argos Translate GUI"
