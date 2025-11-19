@@ -97,12 +97,6 @@ links:
 # target: _blank opens in a new tab, _self opens in the same frame
 socials:
   - social:
-      icon: "fa-solid fa-file"
-      url: "https://icosane.github.io/res/"
-      title: "Resume"
-      alt: "Resume"
-      target: "_blank"
-  - social:
       icon: "fa-brands fa-github"
       url: "https://github.com/icosane"
       title: "GitHub"
