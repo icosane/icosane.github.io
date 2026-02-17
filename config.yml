@@ -20,6 +20,7 @@ plugins:
      # - ZhgChgLi/ZReviewTender
      # - ZhgChgLi/ZMediumToMarkdown
      # - ZhgChgLi/linkyee
+    - CurrentYearPlugin:
 
 # Google Analytics tracking id
 #google_analytics_id:
@@ -129,4 +130,4 @@ footer: >
 # Footer copyright message
 # Linkyee is a 100% free, open-source project—feel free to modify the copyright message as you like. :)
 copyright: >
-  © 2026  <a href="https://github.com/icosane" target="_blank">icosane</a>. Powered by <a href="https://github.com/ZhgChgLi/linkyee" target="_blank">linkyee</a>
+  © {{vars.CurrentYearPlugin}}  <a href="https://github.com/icosane" target="_blank">icosane</a>. Powered by <a href="https://github.com/ZhgChgLi/linkyee" target="_blank">linkyee</a>
