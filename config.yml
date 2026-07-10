@@ -121,6 +121,12 @@ socials:
       title: "Email"
       alt: "email"
       target: "_blank"
+  - social:
+      icon: "fa-brands fa-codeberg"
+      url: "https://codeberg.org/icosane"
+      title: "Codeberg"
+      alt: "Codeberg mirror"
+      target: "_blank"
 
 # Footer text
 footer: >
